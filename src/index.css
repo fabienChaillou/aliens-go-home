@@ -1,0 +1,9 @@
+/* ... body definition ... */
+
+html, body {
+  overflow: hidden;
+  height: 100%;
+}
+
+@import url('https://fonts.googleapis.com/css?family=Joti+One');
+
